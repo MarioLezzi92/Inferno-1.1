@@ -1,0 +1,13 @@
+admin
+dante
+beatrice
+virgil
+lucifer
+minosse
+caronte
+cerbero
+inferno
+paradiso
+purgatorio
+root
+guest
