@@ -1,6 +1,6 @@
 # Inferno 1.1 - Penetration Testing
 
-<img src="images/ce3f2491-1d8a-43e7-8b61-b0ad41e1cc93.png" alt="Inferno Artwork" width="1000"/>
+<img src="images/inferno-dante.jpg" alt="Inferno" width="1000" />
 
 
 ## Descrizione
