@@ -1,5 +1,9 @@
 # Inferno 1.1 - Penetration Testing
 
+> "Nel mezzo del cammin di nostra rete,  
+> mi ritrovai per una selva oscura,  
+> ché la diritta via era smarrita."
+
 <img src="images/inferno-dante.png" alt="Inferno" width="1000" />
 
 
