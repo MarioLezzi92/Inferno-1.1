@@ -1,8 +1,8 @@
 # Inferno 1.1 - Penetration Testing
 
-> "Nel mezzo del cammin di nostra rete,  
-> mi ritrovai per una selva oscura,  
-> ché la diritta via era smarrita."
+> _Nel mezzo del cammin di nostra vita,_  
+> _mi ritrovai in un server oscuro,_  
+> _ché la password era smarrita._
 
 <img src="images/inferno-dante.png" alt="Inferno" width="1000" />
 
@@ -26,7 +26,7 @@ Questo progetto documenta un'attività completa di penetration testing condotta 
 
 - Virtualizzazione: Oracle VM VirtualBox 7.1.6 con rete NAT personalizzata (`10.0.2.0/24`).
 - Macchina attaccante: Kali Linux 2025.2.
-- Target: macchina virtuale Inferno 1.1 su Linux Debian 10.
+- Target: macchina virtuale Inferno 1.1 
 
 ---
 
