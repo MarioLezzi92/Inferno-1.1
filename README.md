@@ -1,8 +1,5 @@
 # Inferno 1.1 - Penetration Testing
 
-> _Nel mezzo del cammin di nostra vita,_  
-> _mi ritrovai in un server oscuro,_  
-> _ché la password era smarrita._
 
 <img src="images/inferno-dante.png" alt="Inferno" width="1000" />
 
