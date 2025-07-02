@@ -41,24 +41,24 @@ Questo progetto documenta un'attività completa di penetration testing condotta 
 ## Fasi del penetration testing
 
 1. **Target Scoping** 
-Definizione del perimetro dell’analisi e degli obiettivi del test.
+   Definizione del perimetro dell’analisi e degli obiettivi del test.
    
-3. **Information Gathering**  
+2. **Information Gathering**  
    Raccolta dati preliminare tramite OSINT.
 
-4. **Target Discovery**  
+3. **Target Discovery**  
    Identificazione degli host attivi nella rete.
 
-5. **Port Scanning e Service Enumeration**  
+4. **Port Scanning e Service Enumeration**  
    Identificazione porte TCP/UDP aperte e servizi attivi, con riconoscimento versioni.
 
-6. **Vulnerability Mapping**  
+5. **Vulnerability Mapping**  
    Individuazione di vulnerabilità note tramite scanner automatici e analisi manuale.
 
-7. **Exploitation**  
+6. **Exploitation**  
    Tentativi di compromissione automatici falliti, seguiti da exploitation manuale tramite brute-force su autenticazione HTTP e sfruttamento di vulnerabilità note.
 
-8. **Post-Exploitation**  
+7. **Post-Exploitation**  
    Escalation privilegi, esplorazione filesystem, recupero credenziali, accesso SSH, e stabilizzazione dell’accesso tramite backdoor persistente.
 
 ---
