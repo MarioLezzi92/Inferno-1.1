@@ -41,7 +41,7 @@ Questo progetto documenta un'attività completa di penetration testing condotta 
 ## Fasi del penetration testing
 
 1. **Target Scoping** 
-   Definizione del perimetro dell’analisi e degli obiettivi del test.
+Definizione del perimetro dell’analisi e degli obiettivi del test.
    
 3. **Information Gathering**  
    Raccolta dati preliminare tramite OSINT.
